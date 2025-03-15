@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS, Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://harshavardhannaidu.netlify.app/](https://harshavardhannaidu.netlify.app/)
+- 👨‍💻 My Portfolio is available at [https://harshavardhannaidu.netlify.app/](https://harshavardhannaidu.netlify.app/)
 
 - 📫 How to reach me **umapathi2harsha@gmail.com**
 
